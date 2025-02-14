@@ -10,16 +10,17 @@ const PropertyContent = () => {
           {/* Left Section */}
           <div className="flex-1 min-w-[250px]">
             <div className="flex items-center gap-2 mb-2">
-              <h1 className="text-2xl font-semibold">Vasudev Garden</h1>
+              <h1 className="text-2xl font-semibold">Vasudev Gardenia</h1>
               <span className="text-xs text-green-600 flex items-center gap-1">
                 <span>✔</span> RERA
               </span>
             </div>
             <p className="text-sm text-gray-700 mb-2">
-              By <span className="text-blue-700"> Vasudev Garden Private Limited</span>
+              By <span className="text-blue-700"> Mhatre Group Realtors</span>
             </p>
             <p className="text-sm text-gray-700 leading-relaxed">
-            Laxminarayan CHSL, Mhatre Wadi , Dahisar West Mumbai 400068
+               Opp. Mahalaxmi Nagar Office, Naigaon - Juchandra Road, Naigaon
+              (East),
             </p>
           </div>
 
@@ -27,31 +28,32 @@ const PropertyContent = () => {
           <div className="price flex-1 min-w-[250px] text-right">
             <p className="mb-2">
               <span className="text-2xl font-extrabold">
-              ₹ 93.53 Lac - 1.59 Cr| 
+              ₹ 24.0 L - 32.0 L ₹9.37 K|
               </span>{" "}
-              <span className="text-sm text-gray-900">24k/sq.ft</span>
+              <span className="text-sm text-gray-900">10.42 K/sq.ft
+              </span>
             </p>
             <p className="text-xs text-gray-700 mb-4">Govt taxes additional</p>
-            <p className="text-blue-700 text-sm mb-1">EMI starts at ₹62.55 K</p>
+            <p className="text-blue-700 text-sm mb-1">EMI starts at ₹12.71 K</p>
             <div className="flex items-end gap-3 justify-end">
-            <button className="bg-[#5E23DC] mt-4 mb-4 px-6 py-2 text-white text-sm rounded shadow hover:bg-[#4a1bba] transition">
-              <a
-                href="https://wa.me/7770017997"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Get detailed pricing here
-              </a>
-            </button>
-            <button className="bg-[#5E23DC] mt-4 mb-4 px-6 py-2 text-white text-sm rounded shadow hover:bg-[#4a1bba] transition">
-              <a
-                href="https://wa.me/7770017997"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-               Check all offers
-              </a>
-            </button>
+              <button className="bg-[#5E23DC] mt-4 mb-4 px-6 py-2 text-white text-sm rounded shadow hover:bg-[#4a1bba] transition">
+                <a
+                  href="https://wa.me/7770017997"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Get detailed pricing here
+                </a>
+              </button>
+              <button className="bg-[#5E23DC] mt-4 mb-4 px-6 py-2 text-white text-sm rounded shadow hover:bg-[#4a1bba] transition">
+                <a
+                  href="https://wa.me/7770017997"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Check all offers
+                </a>
+              </button>
             </div>
           </div>
         </div>

@@ -14,22 +14,22 @@ const DownloadBrochure = () => {
   const data = [
     {
       key: "Project Area",
-      value: " 0.60 acres",
+      value: "0.71 acres",
       icons: <FcAreaChart />,
     },
     {
       key: "Sizes",
-      value: "389.74 - 665.94 sq ft",
+      value: " 248.11 - 407.85 sq ft",
       icons: <SlSizeActual />,
     },
     {
       key: "Project Size",
-      value: "1 Building - 72 units",
+      value: "1 Building - 279 units",
       icons: <GiResize />,
     },
     {
       key: "Launch Date",
-      value: "Oct 2024",
+      value: " Nov, 2023",
       icons: <MdDateRange />,
     },
     {
@@ -39,17 +39,17 @@ const DownloadBrochure = () => {
     },
     {
       key: "Possession Starts",
-      value: "Dec, 2026",
+      value: " Dec, 2026",
       icons: <GiPositionMarker />,
     },
     {
       key: "Configurations",
-      value: "1, 2 BHK Apartments ",
+      value: "1RK , 1 BHK Apartments ",
       icons: <FcDataConfiguration />,
     },
     {
       key: "Rera Id",
-      value: "PR1180002400063",
+      value: "P99000053486",
       icons: <FaRegIdCard />,
     },
     {

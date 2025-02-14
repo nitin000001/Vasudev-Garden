@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 const Propertyoverview = () => {
-  const [scrollPosition, setScrollPosition] = useState(0);
+  // const [scrollPosition, setScrollPosition] = useState(0);
 
   const places = [
     {
@@ -42,7 +42,7 @@ const Propertyoverview = () => {
     <div className="bg-gray-50">
       <div className="mx-auto max-w-5xl px-4 mb-9">
         <div className="bg-gray-600 mb-9 text-white p-4 border-5 border-[#B9F0DB]">
-          <p>Why Vasudev Garden?</p>
+          <p>Why Vasudev Gardenia?</p>
           <li>2 Min Away Railway Station</li>
           <li>Domestic Airport 3km</li>
           <li>International Airport 30km</li>

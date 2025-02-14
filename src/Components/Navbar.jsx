@@ -18,9 +18,9 @@ const Navbar = () => {
             className="object-contain w-full h-full "
           />
         </div> */}
-          <div className="p-5 text-white">
-          <h1>Vasudev Garden</h1>
-          </div>
+        <div className="p-5 text-white">
+          <h1>Vasudev Gardenia</h1>
+        </div>
 
         {/* Navigation Links */}
         <ul className="hidden md:flex gap-6 text-white font-medium">
@@ -48,40 +48,7 @@ const Navbar = () => {
 
           <li className="relative group">
             <a
-              href="#MasterLayout"
-              rel="noopener noreferrer"
-              className="hover:text-blue-500 transition"
-            >
-              Master Layout
-            </a>
-            <span className="absolute left-0 bottom-0 h-[2px] w-0 bg-blue-500 transition-all duration-300 group-hover:w-full"></span>
-          </li>
-
-          <li className="relative group">
-            <a
-              href="#projects"
-              rel="noopener noreferrer"
-              className="hover:text-blue-500 transition"
-            >
-              Projects
-            </a>
-            <span className="absolute left-0 bottom-0 h-[2px] w-0 bg-blue-500 transition-all duration-300 group-hover:w-full"></span>
-          </li>
-
-          <li className="relative group">
-            <a
-              href="#flatLayout"
-              rel="noopener noreferrer"
-              className="hover:text-blue-500 transition"
-            >
-              Flat Layout
-            </a>
-            <span className="absolute left-0 bottom-0 h-[2px] w-0 bg-blue-500 transition-all duration-300 group-hover:w-full"></span>
-          </li>
-
-          <li className="relative group">
-            <a
-              href="https://wa.me/9321696390"
+              href="https://wa.me/7770017997"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-blue-500 transition"
@@ -173,29 +140,7 @@ const Navbar = () => {
 
           <li className="relative group">
             <a
-              href="#MasterLayout"
-              rel="noopener noreferrer"
-              className="hover:text-blue-500 transition"
-            >
-              Master Layout
-            </a>
-            <span className="absolute left-0 bottom-0 h-[2px] w-0 bg-blue-500 transition-all duration-300 group-hover:w-full"></span>
-          </li>
-
-          <li className="relative group">
-            <a
-              href="#projects"
-              rel="noopener noreferrer"
-              className="hover:text-blue-500 transition"
-            >
-              Projects
-            </a>
-            <span className="absolute left-0 bottom-0 h-[2px] w-0 bg-blue-500 transition-all duration-300 group-hover:w-full"></span>
-          </li>
-
-          <li className="relative group">
-            <a
-              href="https://wa.me/9321696390"
+              href="https://wa.me/7770017997"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-blue-500 transition"
