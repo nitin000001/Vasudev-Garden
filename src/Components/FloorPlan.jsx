@@ -6,7 +6,6 @@ import OneBHK37951 from "../assets/1BHK 379.51 sqft carpet.jpg"
 import OneBHK39364 from "../assets/1BHK 393.64 sq ft carpet.jpg"
 import OneBHK39881 from "../assets/1BHK 398.81 sq ft carpet.jpg"
 import OneBHK40785 from "../assets/1BHK 407.85 sqft carpet.jpg"
-import OneBHK39751 from "../assets/397.51 sq ft carpet 1BHK.jpg"
 
 export default function FloorPlan() {
   const [selectedPlan, setSelectedPlan] = useState("1BHK");
@@ -50,11 +49,6 @@ export default function FloorPlan() {
         carpetArea: "407.85 sq.ft",
         price: "Price on Request",
         image: OneBHK40785,
-      },
-      {
-        carpetArea: "397.51 sq.ft",
-        price: "Price on Request",
-        image: OneBHK39751,
       },
     ],
   };
