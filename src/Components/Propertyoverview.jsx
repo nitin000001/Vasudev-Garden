@@ -8,7 +8,7 @@ const Propertyoverview = () => {
       imgSrc:
         "https://images.creativefabrica.com/products/previews/2024/03/26/zVSn0mu5G/2eFLKE5QtTP0Gub55MmWGewJs4J-mobile.jpg",
       category: "School",
-      name: "St.Francis High School",
+      name: "Don Bosco School ",
       time: "2 mins",
       distance: "(1.5km)",
     },
@@ -16,15 +16,15 @@ const Propertyoverview = () => {
       imgSrc:
         "https://images.creativefabrica.com/products/previews/2023/11/29/y6PHhbpYv/2Yqq90zN3cO6v8NtcOZEgYFoYrF-mobile.jpg",
       category: "Hospital",
-      name: "Silver Line Hospital",
-      time: "2 mins",
-      distance: "(1.5km)",
+      name: "Om Sai hospital, Janseva Hospital",
+      time: "5 mins",
+      distance: "(1.7km)",
     },
     {
       imgSrc:
         "https://images.creativefabrica.com/products/previews/2024/02/13/vqNNmEdbg/2cJnFeRNDTIo8YLqJJNnjnMiiEP-mobile.jpg",
       category: "Railway Station",
-      name: "Dahisar Station",
+      name: "Naigoan Station",
       time: "2 mins",
       distance: "(100m)",
     },
@@ -33,21 +33,14 @@ const Propertyoverview = () => {
         "https://images.creativefabrica.com/products/previews/2024/01/18/1yaGW1mT6/2b8Hjbfqkpj8OBPo2E4UOYDbzQx-mobile.jpg",
       category: "Airport",
       name: "Chhatrapati Shivaji Maharaj International Airport, Mumbai",
-      time: "2 mins",
-      distance: "(1.5km)",
+      time: "1.5hr/2hrs",
+      distance: "(30km)",
     },
   ];
 
   return (
-    <div className="bg-gray-50">
+    <div className="">
       <div className="mx-auto max-w-5xl px-4 mb-9">
-        <div className="bg-gray-600 mb-9 text-white p-4 border-5 border-[#B9F0DB]">
-          <p>Why Vasudev Gardenia?</p>
-          <li>2 Min Away Railway Station</li>
-          <li>Domestic Airport 3km</li>
-          <li>International Airport 30km</li>
-        </div>
-
         <div className="container border-2 border-gray-300 p-5">
           <div className="topontent flex gap-2">
             <img
@@ -56,8 +49,8 @@ const Propertyoverview = () => {
             />
             <div className="">
               <p>Property Location</p>
-              <p className="text-sm text-gray-700 leading-relaxed">
-                Laxminarayan CHSL, Mhatre Wadi , Dahisar West Mumbai 400068
+              <p className="text-sm text-gray-400 leading-relaxed">
+              Opp. Mahalaxmi Nagar Office, Naigaon - Juchandra Road, Naigaon (East),
               </p>
             </div>
           </div>

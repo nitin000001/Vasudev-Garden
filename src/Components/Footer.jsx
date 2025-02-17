@@ -10,7 +10,7 @@ const Footer = () => {
           <h5 className="text-sm font-semibold">
             MahaRERA Registration Number:
           </h5>
-          <p className="text-sm">PR/118000/24000063</p>
+          <p className="text-sm">PR/P99000053486</p>
           <p className="text-xs text-gray-400 ">
             Disclaimer: The plans, specifications, conceptual designs, visuals,
             amenities, and other details are strictly for representation

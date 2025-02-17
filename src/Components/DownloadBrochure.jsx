@@ -60,7 +60,7 @@ const DownloadBrochure = () => {
   ];
 
   return (
-    <div className="bg-gray-50">
+    <div className="">
       <div className="mx-auto max-w-5xl px-4 py-9">
         <div className="border p-9">
           {/* Header Section */}
@@ -87,7 +87,7 @@ const DownloadBrochure = () => {
                   {item.icons}
                 </div>
                 <div>
-                  <p className="font-medium text-gray-700">{item.key}</p>
+                  <p className="font-medium ">{item.key}</p>
                   {item.key === "Check RERA Status" ? (
                     <a
                       href={item.value}
@@ -98,7 +98,7 @@ const DownloadBrochure = () => {
                       Contact on WhatsApp
                     </a>
                   ) : (
-                    <p className="text-gray-500 text-sm">
+                    <p className="text-gray-400 text-sm">
                       {item.value || "N/A"}
                     </p>
                   )}
