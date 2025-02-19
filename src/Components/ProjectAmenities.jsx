@@ -29,47 +29,47 @@ const ProjectAmenities = () => {
       {/* Image Container */}
       <div className=" w-full grid md:grid-cols-5 gap-4 text-center  p-4">
         <div className="rounded-lg bg-white shadow-2xl flex flex-col items-center p-4 hover:scale-105 transition-all duration-300 cursor-pointer ">
-          <MdCarCrash className="text-2xl" />
+          <MdCarCrash className="text-2xl text-black" />
           <p className="text-slate-700">Closed Car Parking</p>
         </div>
         <div className="rounded-lg bg-white shadow-2xl flex flex-col items-center p-4 hover:scale-105 transition-all duration-300 cursor-pointer">
-          <FaHandHoldingWater className="text-2xl" />
+          <FaHandHoldingWater className="text-2xl text-black" />
           <p className="text-slate-700">24X7 Water Supply </p>
         </div>
         <div className="rounded-lg bg-white shadow-2xl flex flex-col items-center p-4 hover:scale-105 transition-all duration-300 cursor-pointer">
-          <GiNuclearWaste className="text-2xl" />
+          <GiNuclearWaste className="text-2xl text-black" />
           <p className="text-slate-700">Solid Waste Management</p>
         </div>
         <div className="rounded-lg bg-white shadow-2xl flex flex-col items-center p-4 hover:scale-105 transition-all duration-300 cursor-pointer">
-          <IoThunderstormSharp className="text-2xl" />
+          <IoThunderstormSharp className="text-2xl text-black" />
           <p className="text-slate-700">Storm water Drains</p>
         </div>
         <div className="rounded-lg bg-white shadow-2xl flex flex-col items-center  p-4 hover:scale-105 transition-all duration-300 cursor-pointer ">
-          <FaCar className="text-2xl" />
+          <FaCar className="text-2xl text-black" />
           <p className="text-slate-700">Open Parking</p>
         </div>
         <div className="rounded-lg bg-white shadow-2xl flex flex-col items-center p-4 hover:scale-105 transition-all duration-300 cursor-pointer">
-          <FcLandscape className="text-2xl" />
+          <FcLandscape className="text-2xl text-black" />
           <p className="text-slate-700">Landscaping & Tree</p>
         </div>
         <div className="rounded-lg bg-white shadow-2xl flex flex-col items-center p-4 hover:scale-105 transition-all duration-300 cursor-pointer">
-          <LiaRoadSolid className="text-2xl" />
+          <LiaRoadSolid className="text-2xl text-black" />
           <p className="text-slate-700">Internal Roads & Footpaths</p>
         </div>
         <div className="rounded-lg bg-white shadow-2xl flex flex-col items-center p-4 hover:scale-105 transition-all duration-300 cursor-pointer">
-          <IoWater className="text-2xl" />
+          <IoWater className="text-2xl text-black" />
           <p className="text-slate-700">Water Conservation</p>
         </div>
         <div className="rounded-lg bg-white shadow-2xl flex flex-col items-center  p-4 hover:scale-105 transition-all duration-300 cursor-pointer ">
-          <PiFireTruckDuotone className="text-2xl" />
+          <PiFireTruckDuotone className="text-2xl text-black" />
           <p className="text-slate-700">Fire Fighting System</p>
         </div>
         <div className="rounded-lg bg-white shadow-2xl flex flex-col items-center p-4 hover:scale-105 transition-all duration-300 cursor-pointer">
-          <LuToilet className="text-2xl" />
+          <LuToilet className="text-2xl text-black" />
           <p className="text-slate-700">Sewage Treatment</p>
         </div>
         <div className="rounded-lg bg-white shadow-2xl flex flex-col items-center p-4 hover:scale-105 transition-all duration-300 cursor-pointer">
-          <GiElectricalResistance className="text-2xl" />
+          <GiElectricalResistance className="text-2xl text-black" />
           <p className="text-slate-700">Electrification Solar Energy</p>
         </div>
 

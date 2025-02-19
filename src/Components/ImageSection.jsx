@@ -3,6 +3,7 @@ import { ChevronLeftIcon, ChevronRightIcon } from '@heroicons/react/24/outline';
 import Amenities from "../assets/Amenities.jpg"
 import ProjectLayout from "../assets/Project Layout.jpg"
 import evilation from "../assets/evilation.jpg"
+import carImg from "../assets/carimg.jpg"
 
 
 const ImageSlider = () => {
@@ -10,9 +11,7 @@ const ImageSlider = () => {
     Amenities,
     ProjectLayout,
     evilation,
-    "https://images.pexels.com/photos/302769/pexels-photo-302769.jpeg?auto=compress&cs=tinysrgb&w=600",
-    "https://images.pexels.com/photos/1105766/pexels-photo-1105766.jpeg?auto=compress&cs=tinysrgb&w=600",
-    "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=600",
+    carImg
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
