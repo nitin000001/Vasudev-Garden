@@ -58,14 +58,14 @@ const Footer = () => {
         <p className="text-sm text-gray-400">
           © 2025 Vasudev Garden. All rights reserved.
         </p>
-        <a
+        {/* <a
           href="https://portfolio-indol-ten-94.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-xs tracking-tight text-gray-400"
         >
           Design and Developed by Nitin Maurya
-        </a>
+        </a> */}
       </div>
     </footer>
   );
